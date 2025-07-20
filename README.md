@@ -26,13 +26,14 @@ My foundation in computer science taught me how to engineer systems. My analytic
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Java, Bash, SQL  
-- **Cloud & Big Data**: AWS (Lambda, S3, Redshift), Snowflake, Kafka, Spark, Hadoop  
-- **ETL & Orchestration**: Airflow, Talend, Apache Beam  
-- **Databases**: Postgres, MySQL, DynamoDB, HBase  
-- **Visualization**: Power BI, Tableau  
-- **DevOps & Tools**: Docker, Git, REST APIs, HTML/CSS/JS  
-- **Practices**: Agile, CI/CD, SDLC, Data Governance
+- **Languages & Programming**: Java, Python, JavaScript, SQL
+- **Backend Development**: Spring Boot, Node.js, REST APIs
+- **Frontend Tools**: React.js, HTML5, CSS3
+- **Cloud & DevOps**: AWS (EC2, Lambda, S3), Docker, Git, Terraform
+- **Big Data & Distributed Systems**: Apache Spark, PySpark, Kafka
+- **Databases**: PostgreSQL, MongoDB, DynamoDB
+- **Testing & QA**: JUnit, PyTest, Postman
+- **Software Engineering**: OOP, System Design, Design Patterns, SDLC
 
 ---
 
