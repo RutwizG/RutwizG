@@ -16,11 +16,23 @@ My foundation in computer science taught me how to engineer systems. My analytic
 
 ## 💼 Professional Experience
 
-- **Data Engineer Intern** @ Santander (Jan 2024 – Aug 2024)  
-  Created sub-hourly, real-time ETL pipelines using Python, Airflow, and AWS services. Automated data quality layers and built compliance-ready traceability models.
+**Data Engineer Intern @ Santander — Jan 2024 – Aug 2024**
 
-- **Software Development Engineer** @ Mokshagna Technologies (Apr 2020 – Dec 2022)  
-  Developed Java and Python-based microservices on AWS, and built custom ETL frameworks with schema validation and data lineage for high-volume ingestion workflows.
+- Engineered sub-hourly data pipelines for transaction monitoring using Python, Airflow, and AWS Glue, enabling real-time insights for financial risk management and audit readiness.
+
+- Integrated Apache Spark transformations for handling high-volume account activity logs, building compliance-focused, lineage-traceable datasets stored in Redshift and queried via Athena.
+
+- Provisioned infrastructure with Terraform and containerized jobs with Docker, deploying updates through Jenkins, achieving infrastructure-as-code governance and reducing onboarding overhead.
+
+**Software Development Engineer @ Mokshagna Technologies — Apr 2020 – Dec 2022**
+
+- Designed and deployed high-availability backend systems for a U.S.-India cross-border payments platform, focusing on secure, scalable microservices built with Java, Python, and Spring Boot across AWS infrastructure.
+
+- Built end-to-end ETL frameworks using Apache Spark and PySpark to process multi-source remittance transactions, integrating schema validation, fraud checks, and currency exchange modules.
+
+- Automated cloud provisioning and configuration with Terraform, while implementing CI/CD pipelines via Jenkins, enhancing deployment velocity and environment reproducibility.
+
+- Developed asynchronous job scheduling and reconciliation workflows for real-time transaction visibility, ensuring compliance with AML/KYC regulations and optimizing database I/O across PostgreSQL and MongoDB.
 
 ---
 
