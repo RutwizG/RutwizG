@@ -15,7 +15,7 @@ My foundation in computer science taught me how to engineer systems. My analytic
 ---
 ## Interests
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cac710ca-0901-404e-9c51-93ff388bd5b6" />
+<img width="1024" height="844" alt="image" src="https://github.com/user-attachments/assets/cac710ca-0901-404e-9c51-93ff388bd5b6" />
 
 Outside of work, I draw deep inspiration from high-performance sports and the discipline behind them. I'm an avid follower of Formula 1, where I admire the precision, resilience, and strategic brilliance of drivers like Lewis Hamilton. I find similar motivation in cricket and tennis, closely following the careers of Virat Kohli, MS Dhoni, and Rafael Nadal—icons known not just for their success, but for their mental strength and work ethic. These athletes reinforce my belief that the process matters more than the result, a mindset I carry into both my professional and personal life. I also enjoy cooking as a creative outlet, often experimenting with flavors and cuisines as a way to unwind and explore culture through food.
 
