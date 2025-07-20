@@ -26,6 +26,8 @@ My foundation in computer science taught me how to engineer systems. My analytic
 
 ## 🛠️ Tech Stack
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c967313-c6b3-4a9e-bcb0-e24cc6cbf75b" />
+
 - **Languages & Programming**: Java, Python, JavaScript, SQL
 - **Backend Development**: Spring Boot, Node.js, REST APIs
 - **Frontend Tools**: React.js, HTML5, CSS3
