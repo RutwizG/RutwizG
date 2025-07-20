@@ -44,7 +44,7 @@ Outside of work, I draw deep inspiration from high-performance sports and the di
 
 ## 🛠️ Tech Stack
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c967313-c6b3-4a9e-bcb0-e24cc6cbf75b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/64e03538-6995-4379-a1ff-ed3a223784e6" />
 
 - **Languages & Programming**: Java, Python, JavaScript, SQL
 - **Backend Development**: Spring Boot, Node.js, REST APIs
