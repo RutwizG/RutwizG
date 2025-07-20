@@ -24,25 +24,6 @@ My foundation in computer science taught me how to engineer systems. My analytic
 
 ---
 
-## 🚀 Projects
-
-### 📈 Project 1: **Spotify Global Top 100 ETL Pipeline**
-- Fully serverless ETL built on AWS Lambda, S3, and Athena.
-- Automated schema validation, SLA monitors, and Power BI visualizations.
-- Designed for weekly ingestion and analytical exploration of global music trends.
-
-### 🌱 Project 2: **Bitcoin Environmental Impact Dashboard**
-- Real-time event-driven data processing with Kafka, Python, and Snowflake.
-- Integrated field-level anomaly detection and Tableau dashboards for sustainability insights.
-- Maintained source-to-target metadata lineage and alerting systems.
-
-### 📊 Project 3: **Netflix API Analytics Pipeline**
-- Kafka + PySpark streaming pipeline to analyze nested API traffic.
-- Sessionized, enriched, and visualized logs in Snowflake and Power BI.
-- Used Docker + Airflow for CI/CD, automated testing, and containerized workflows.
-
----
-
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, Java, Bash, SQL  
