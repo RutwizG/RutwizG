@@ -22,7 +22,7 @@ Outside of work, I draw deep inspiration from high-performance sports and the di
 ---
 ## 💼 Professional Experience
 
-**Data Engineer Intern @ Santander — Jan 2024 – Aug 2024**
+**Data Engineer Intern @ Santander — Mar 2025 – Jun 2025**
 
 - Engineered sub-hourly data pipelines for transaction monitoring using Python, Airflow, and AWS Glue, enabling real-time insights for financial risk management and audit readiness.
 
